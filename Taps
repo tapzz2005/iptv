@@ -1556,4 +1556,15 @@ http://185-125-230-172.livesports24.online/bst3.m3u8
 #EXTINF:-1,Bein 3 576p
 http://185-125-230-172.livesports24.online/bst3.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHELSEATV.png" group-title="INGLATERRA",Chelsea TV
+https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/7/7e/Mutv.jpg/revision/latest?cb=20140909134056" group-title="INGLATERRA",MUTV
+https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/1280px-RT%C3%89_One_2014.svg.png" group-title="INGLATERRA",Rte One
+http://cdn.rasset.ie/hls-live/_definst_/rte1/rte1-270.m3u8|user-agent=smartlabs
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1280px-RT%C3%892_logo.svg.png" group-title="INGLATERRA",Rte Two
+http://cdn.rasset.ie/hls-live/_definst_/rte2/rte2-270.m3u8|user-agent=smartlabs
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTV.png" group-title="INGLATERRA",MTV HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVBASE.png" group-title="INGLATERRA",MTV Base
+http://94.46.222.90:2106
