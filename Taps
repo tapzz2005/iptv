@@ -1701,11 +1701,5 @@ https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CGTNAMERICA.png" group-title="USA",CGTN AMERICA
 http://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="PREMIUM USA",Hbo
-http://74.91.20.42:8080/noel/noel/322
-
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-2-logo-png-transparent.png"  group-title="PREMIUM USA",Hbo 2 HD
-http://74.91.20.42:8080/noel/noel/321
-
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/hbo-2-logo-png-transparent.png"  group-title="PREMIUM USA",Hbo 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
