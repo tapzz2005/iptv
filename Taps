@@ -1373,12 +1373,7 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 http://94.46.222.90:2106
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVCLASSIC.png" group-title="INGLATERRA",MTV Classic
 http://94.46.222.90:2107
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVDANCE.png" group-title="INGLATERRA",MTV Dance
-http://91.231.219.145:80/tv_mtv_dance/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVHITS.png" group-title="INGLATERRA",MTV Hits
-http://91.231.219.145:80/tv_mtv_hits/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVROCKS.png" group-title="INGLATERRA",MTV Rocks
-http://91.231.219.145:80/tv_mtv_rocks/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" group-title="INGLATERRA",VH1 EUROPE
 http://85.244.70.140:7000/play/a012
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1CLASSIC.png" group-title="INGLATERRA",VH1 CLASSIC
@@ -1413,8 +1408,7 @@ https://1259541102.rsc.cdn77.org/LS-ATL-54548-4/index.m3u8
 http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORY.png" group-title="USA",History
 http://190.13.120.113/streams/history.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" group-title="USA",Syfy
-http://190.13.120.113/streams/syfy.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANIMALPLANET.png" group-title="USA",Animal Planet
 http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/THEWEATHERCHANNEL.png" group-title="USA",The Weather channel
@@ -1441,18 +1435,12 @@ https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
 http://80.80.160.168/live/5/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVCLASSIC.png" group-title="USA",MTV Classic
 http://94.46.222.90:2107
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTSNETNY.png" group-title="USA",SportsNet New York
-http://185.59.223.148/sports_sportsnet_nyc/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/WWENET.png" group-title="USA",WWE NETWORK
-http://vapi.vaders.tv/play/3047.m3u8?token=eyJ1c2VybmFtZSI6InNjb3R0cmV2b3IwNjAxIiwicGFzc3dvcmQiOiI5MXNyZWRhdiJ9
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png" group-title="USA",ESPN USA
 http://185.246.209.106/sports_espn_hd/mpegts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ESPN.png" group-title="USA",ESPN USA HD
 http://80.80.160.168/live/6/2500000/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FS1.png" group-title="USA",FS1
-http://185.246.209.106/sports_fox_sports_1_hd/mpegts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NBATV.png" group-title="USA",NBA
-http://185.246.209.106/sports_nba_tv_hd/mpegts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MLBNETWORK.png" group-title="USA",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/THEGOLFCHANNEL.png" group-title="USA",The Golf Channel
