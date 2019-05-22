@@ -82,38 +82,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA TV ~
 http://www.lengua.com/anthems/USA.mp3
 
-#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/abc-logo-png-file-abc-logo-png-400.png" group-title="PREMIUM USA",Abc Atlanta
-http://149.28.37.110:8080/abc-atlanta/video.m3u8?token=b5m6-1x-a3
 
-#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/abc-logo-png-file-abc-logo-png-400.png" group-title="PREMIUM USA",Abc Baltimore
-http://149.28.37.110:8080/abc-baltimore/video.m3u8?token=b5m6-1x-a3
-
-#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/abc-logo-png-file-abc-logo-png-400.png" group-title="PREMIUM USA",Abc Boston
-http://149.28.37.110:8080/abc-boston/video.m3u8?token=b5m6-1x-a3
-
-#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/abc-logo-png-file-abc-logo-png-400.png" group-title="PREMIUM USA",Abc Chicago
-http://149.28.37.110:8080/abc-chicago/video.m3u8?token=b5m6-1x-a3
-
-#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/abc-logo-png-file-abc-logo-png-400.png" group-title="PREMIUM USA",Abc Cleveland
-http://149.28.37.110:8080/abc-Cleveland/video.m3u8?token=b5m6-1x-a3
-
-#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/abc-logo-png-file-abc-logo-png-400.png" group-title="PREMIUM USA",Abc Dallas
-http://149.28.37.110:8080/abc-dallas/video.m3u8?token=b5m6-1x-a3
-
-#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/abc-logo-png-file-abc-logo-png-400.png" group-title="PREMIUM USA",Abc Detroit
-http://149.28.37.110:8080/abc-detroit/video.m3u8?token=b5m6-1x-a3
-
-#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/abc-logo-png-file-abc-logo-png-400.png" group-title="PREMIUM USA",Abc Houston
-http://149.28.37.110:8080/abc-Houston/video.m3u8?token=b5m6-1x-a3
-
-#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/abc-logo-png-file-abc-logo-png-400.png" group-title="PREMIUM USA",Abc Miami
-http://149.28.37.110:8080/abc-MIAMI/video.m3u8?token=b5m6-1x-a3
-
-#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/abc-logo-png-file-abc-logo-png-400.png" group-title="PREMIUM USA",Abc New York
-http://149.28.37.110:8080/abc-newyork/video.m3u8?token=b5m6-1x-a3
-
-#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/abc-logo-png-file-abc-logo-png-400.png" group-title="PREMIUM USA",Abc Washington
-http://149.28.37.110:8080/abc-Washington/video.m3u8?token=b5m6-1x-a3
 
 
 #EXTINF:-1 tvg-logo="https://sitejerk.com/images/usa-network-logo-transparent-9.png" group-title="PREMIUM USA",USA Network
@@ -383,8 +352,17 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="USA",Fox Sports Racing
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/445.png" group-title="DEPORTES INTERNACIONAL",Fox Sports USA HD
+http://74.91.20.42:8080/ariel/ariel/290
+
+#EXTINF:-1 tvg-logo="https://www.tkscable.com/uploads/pics/Channel_Logos/fs2.png" group-title="DEPORTES INTERNACIONAL",Fox Sports 2 USA HD
+http://74.91.20.42:8080/ariel/ariel/291
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" group-title="USA",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="PREMIUM USA",Fx
+http://74.91.20.42:8080/ariel/ariel/126
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qcrsf49.png" group-title="USA",Global Fashion Channel
 https://vcnglobalfashionchannel.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8?fluxustv.m3u8
@@ -405,6 +383,9 @@ http://161.0.157.50/PLTV/88888888/224/3221226127/index.m3u8?fluxustv.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="USA",HBO 2 (LA)
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/hgtv-logo-png-2.png" group-title="PREMIUM USA",HGTV
+http://74.91.20.42:8080/ariel/ariel/128
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/HLN.us.png" group-title="USA",HLN
 https://1259541102.rsc.cdn77.org/LS-ATL-54548-7/tracks-v1a1/mono.m3u8?fluxustv.m3u8
@@ -506,6 +487,9 @@ https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="USA",NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="USA",NBA USA HD
+http://74.91.20.42:8080/ariel/ariel/122
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="USA",NBC (WTVJ) (EST)
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
 
@@ -516,6 +500,12 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bO6iyBk.png" group-title="USA",NBC Golf
 http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/nbcsp.png" group-title="USA",NBCSN USA HD
+http://74.91.20.42:8080/ariel/ariel/288
+
+#EXTINF:-1 tvg-logo="http://www.logospng.com/images/43/ways-to-watch-the-nfl-tv-streaming-amp-radio-nflcom-43350.png" group-title="USA",NFL Network USA HD
+http://74.91.20.42:8080/ariel/ariel/453
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.destinationnetwork.com/images/channel_logos/notv_logo.png" group-title="USA",New Orleans TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
@@ -658,11 +648,16 @@ https://vcnswee.teleosmedia.com/stream/swee/signmetv/seglist_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RSHCC2y.png" group-title="USA",Spydar TV
 https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="PREMIUM USA",Syfy
+http://74.91.20.42:8080/ariel/ariel/123
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="USA",Stadium
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://tastytradepublicmedia.s3.amazonaws.com/assets/logos/tt-logo-original-05e5dd25021223dff0203915ecdc9375.png" group-title="USA",TastyTrade
 https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="PREMIUM USA",The CW
+http://74.91.20.42:8080/ariel/ariel/577
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YeSygn7.png" group-title="USA",TBD
 http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
@@ -933,6 +928,21 @@ https://sbsports.pro/lba/NDI5OGFiOTU4ZjFmYjQzOGU0YmRhYjkyMjNhYzA3MDc=/g2/maineve
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Sky2.uk.png" group-title="UK",Sky Two
 http://195.181.169.148/SKYTWO_Eng/tracks-v1a1/mono.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://web.static.nowtv.com/images/NOWTV_2019/Brand/P1/SS-Arena.png" group-title="UK",Sky Sport Arena UK HD
+http://74.91.20.42:8080/ariel/ariel/659
+
+
+#EXTINF:-1 tvg-logo="https://hannahsellman.files.wordpress.com/2014/11/f1-logo-f.png" group-title="UK",Sky Sport F1 HD
+http://74.91.20.42:8080/ariel/ariel/656
+
+
+#EXTINF:-1 tvg-logo="http://www.userlogos.org/files/logos/zeppelin0291/sky%20sports.football.png" group-title="UK",Sky Sport Football HD
+http://74.91.20.42:8080/ariel/ariel/658
+
+#EXTINF:-1 tvg-logo="https://www.eir.ie/opencms/export/sites/default/.galleries/eir/tv/logos/skysports/skysportsgolf_130x130.png" group-title="UK",Sky Sport Golf HD
+http://74.91.20.42:8080/ariel/ariel/653
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/STV_logo_2014.png" group-title="UK",STV
 http://185.53.163.214:5678/ipvt_011
