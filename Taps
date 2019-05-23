@@ -1400,10 +1400,7 @@ http://cdn.rasset.ie/hls-live/_definst_/rte1/rte1-270.m3u8|user-agent=smartlabs
 http://cdn.rasset.ie/hls-live/_definst_/rte2/rte2-270.m3u8|user-agent=smartlabs
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTV.png" group-title="Uk",MTV HD
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVBASE.png" group-title="Uk",MTV Base
-http://94.46.222.90:2106
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/ICO/master/INGLATERRA.png" group-title=INGLATERRA",INGLATERRA
-http://fui.me
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PBSCHANNEL.png" group-title="Uk",PBS
 http://192.222.145.93:9981/stream/channelid/915519515?ticket=5BBED7C7B5FCCB9AD73917E92B12E233E0A11063&profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ALJAZEERA.png" group-title="Uk",Al Jazeera EN
@@ -1425,14 +1422,6 @@ http://cdn.rasset.ie/hls-live/_definst_/rte1/rte1-270.m3u8|user-agent=smartlabs
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/RT%C3%892_logo.svg/1280px-RT%C3%892_logo.svg.png" group-title="INGLATERRA",Rte Two
 http://cdn.rasset.ie/hls-live/_definst_/rte2/rte2-270.m3u8|user-agent=smartlabs
 
-http://94.46.222.90:2106
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVCLASSIC.png" group-title="Uk",MTV Classic
-http://94.46.222.90:2107
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" group-title="Uk",VH1 EUROPE
-http://85.244.70.140:7000/play/a012
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1CLASSIC.png" group-title="Uk",VH1 CLASSIC
-http://94.21.100.36:2225/play/vh1c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png" group-title="Uk",Bloomberg
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png" group-title="Uk",CNBC
