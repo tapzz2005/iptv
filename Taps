@@ -1273,7 +1273,25 @@ http://62.210.27.219:80/live.ts?channelId=45&deviceMac=00:1A:79:48:53:86&uid=471
 
 #EXTINF:-1 tvg-logo="https://1.fwcdn.pl/po/04/29/760429/7840533.6.jpg" group-title="Tv Series",Lucifer Season 4
 http://dl5.upfdl.com/files/Serial/Lucifer/S04/480p/mSD/Lucifer.S04E01.480p.WEB.mSD.Farda.DL.mkv
+#EXTINF:-1 tvg-logo="https://1.fwcdn.pl/po/04/29/760429/7840533.6.jpg" group-title="Tv Series",Lucifer Season 4
 http://dl5.upfdl.com/files/Serial/Lucifer/S04/480p/mSD/Lucifer.S04E02.480p.WEB.mSD.Farda.DL.mkv
+#EXTINF:-1 tvg-logo="https://1.fwcdn.pl/po/04/29/760429/7840533.6.jpg" group-title="Tv Series",Lucifer Season 4
+http://dl5.upfdl.com/files/Serial/Lucifer/S04/480p/mSD/Lucifer.S04E03.480p.WEB.mSD.Farda.DL.mkv           
+#EXTINF:-1 tvg-logo="https://1.fwcdn.pl/po/04/29/760429/7840533.6.jpg" group-title="Tv Series",Lucifer Season 4
+http://dl5.upfdl.com/files/Serial/Lucifer/S04/480p/mSD/Lucifer.S04E04.480p.WEB.mSD.Farda.DL.mkv           
+#EXTINF:-1 tvg-logo="https://1.fwcdn.pl/po/04/29/760429/7840533.6.jpg" group-title="Tv Series",Lucifer Season 4
+http://dl5.upfdl.com/files/Serial/Lucifer/S04/480p/mSD/Lucifer.S04E05.480p.WEB.mSD.Farda.DL.mkv           
+#EXTINF:-1 tvg-logo="https://1.fwcdn.pl/po/04/29/760429/7840533.6.jpg" group-title="Tv Series",Lucifer Season 4
+http://dl5.upfdl.com/files/Serial/Lucifer/S04/480p/mSD/Lucifer.S04E06.480p.WEB.mSD.Farda.DL.mkv           
+#EXTINF:-1 tvg-logo="https://1.fwcdn.pl/po/04/29/760429/7840533.6.jpg" group-title="Tv Series",Lucifer Season 4
+http://dl5.upfdl.com/files/Serial/Lucifer/S04/480p/mSD/Lucifer.S04E07.480p.WEB.mSD.Farda.DL.mkv           
+#EXTINF:-1 tvg-logo="https://1.fwcdn.pl/po/04/29/760429/7840533.6.jpg" group-title="Tv Series",Lucifer Season 4
+http://dl5.upfdl.com/files/Serial/Lucifer/S04/480p/mSD/Lucifer.S04E08.480p.WEB.mSD.Farda.DL.mkv           
+#EXTINF:-1 tvg-logo="https://1.fwcdn.pl/po/04/29/760429/7840533.6.jpg" group-title="Tv Series",Lucifer Season 4
+http://dl5.upfdl.com/files/Serial/Lucifer/S04/480p/mSD/Lucifer.S04E09.480p.WEB.mSD.Farda.DL.mkv           
+#EXTINF:-1 tvg-logo="https://1.fwcdn.pl/po/04/29/760429/7840533.6.jpg" group-title="Tv Series",Lucifer Season 4
+http://dl5.upfdl.com/files/Serial/Lucifer/S04/480p/mSD/Lucifer.S04E10.480p.WEB.mSD.Farda.DL.mkv           
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YwZsGFd.png" group-title="Movies",* Tapiwa Cinema English
 http://149.56.23.7:20082/stream
