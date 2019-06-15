@@ -1066,7 +1066,11 @@ http://espn.tmedia.me/cache/bet.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Bravo.us.png" group-title="Entertainment", Bravo
 http://161.0.157.9/PLTV/88888888/224/3221226804/01.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BuzzrTV.us.png" group-title="Entertainment", Buzzr
-https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://liveitkodi.com/Logos/HBO2.png" group-title="Entertainment",HBO 2
+http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",HBO2 [360p]
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Entertainment",HBO2 [720p]
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CookingChannel.us.png" group-title="Entertainment",Cooking Channel
 http://161.0.157.9/PLTV/88888888/224/3221226201/01.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ComedyCentral.uk.png" group-title="Entertainment",Comedy Central
