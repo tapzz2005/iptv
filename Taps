@@ -1059,6 +1059,70 @@ http://103.205.133.44:1935/ns/WARNERBROS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cJaeQA7.png" group-title="Entertainment",Western 4U
 https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/AXN.kr.png" group-title="Entertainment", AXN Asia
+http://220.158.149.14:9999/live/TV00000000000000000108@HHZT;LIVE
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BET.uk.png" group-title="Entertainment", BET
+http://espn.tmedia.me/cache/bet.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Bravo.us.png" group-title="Entertainment", Bravo
+http://161.0.157.9/PLTV/88888888/224/3221226804/01.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/BuzzrTV.us.png" group-title="Entertainment", Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CookingChannel.us.png" group-title="Entertainment",Cooking Channel
+http://161.0.157.9/PLTV/88888888/224/3221226201/01.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ComedyCentral.uk.png" group-title="Entertainment",Comedy Central
+http://espn.tmedia.me/cache/cc.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ComedyCentralExtra.uk.png" group-title="Entertainment",Comedy Central Xtra
+http://62.210.27.219:80/live.ts?channelId=40&deviceMac=00:1A:79:48:53:86&uid=471
+#EXTINF:-1 tvg-logo="https://www.mayday.is/img/showcase_docurama/dcr-branding-full.png" group-title="Entertainment", Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Diva_logo.svg/375px-Diva_logo.svg.png" group-title="Entertainment", Diva
+http://45.126.83.51:443/uq2663/h/h11/01.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/EEntertainment.us.png" group-title="Entertainment", E!
+http://210.210.155.35/uq2663/h/h10/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Entertainment_Tonight_2014_logo.png" group-title="Entertainment", ET Live
+http://etlive-mediapackage-fastly.cbsaavideo.com/live/manifest_7.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="Entertainment", Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png"  group-title="Entertainment", Fashion TV Midnite
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png"  group-title="Entertainment", Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FoodNetwork.uk.png"  group-title="Entertainment", Food Network
+http://62.210.27.219:80/live.ts?channelId=58&deviceMac=00:1A:79:48:53:86&uid=471
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Fine_Living_logo.svg/300px-Fine_Living_logo.svg.png" group-title="Entertainment",  Fine Living
+http://70.32.0.9:5000/live/543/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/rs/FOX.rs.png" group-title="Entertainment",  Fox
+http://185.246.209.109:8080/FOX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg" group-title="Entertainment",  Gem TV Asia
+http://210.210.155.35/uq2663/h/h19/index2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" group-title="Entertainment", HITS
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/Lifetime.th.png" group-title="Entertainment", Lifetime
+http://62.210.27.219:80/live.ts?channelId=49&deviceMac=00:1A:79:48:53:86&uid=471
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Kix.uk.png" group-title="Entertainment",KIX
+http://210.210.155.35/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Luxe_TV.png/250px-Luxe_TV.png" group-title="Entertainment",Luxe
+http://210.210.155.35/x6bnqe/s/s65/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Entertainment",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="http://www.shockya.com/news/wp-content/uploads/runway-tv.png"  group-title="Entertainment",Runway TV
+http://runway.videocdn.scaleengine.net/runway-iphone/play/runway/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Star_World_2016_logo.png" group-title="Entertainment",Star World
+http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TBS.us.png" group-title="Entertainment", TBS
+http://170.250.96.20:8117/streams/TBS.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/TravelChannel.us.png" group-title="Entertainment",Travel Channel
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Entertainment",Thrill
+http://210.210.155.35/qwr9ew/s/s34/index2.m3u8
+#EXTINF:-1  tvg-logo="https://static.iptv-epg.com/gb/TLC.uk.png" group-title="Entertainment",TLC
+http://62.210.27.219:80/live.ts?channelId=47&deviceMac=00:1A:79:48:53:86&uid=471
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/sites/26/2016/11/logo_sport-1.png" group-title="Entertainment",Trace Sports Stars
+https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/6/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Universal.uk.png" group-title="Entertainment",Universal
+http://62.210.27.219:80/live.ts?channelId=68&deviceMac=00:1A:79:48:53:86&uid=471
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/330px-Box_hits.svg.png" group-title="Music",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="Music",California Music Channel
