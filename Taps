@@ -269,9 +269,6 @@ http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Court_TV_logo.png" group-title="USA",Court TV (New!)
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CrimeAndInvestigationNetwork.uk.png" group-title="Education", Crime & Investigation
-http://195.181.169.148:80/CI_HD_USA_ENG/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="USA",CW (WSFL) (EST)
 http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
@@ -294,8 +291,6 @@ http://80.80.160.168/live/9/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Education",Discovery Channel HD [720p]
 http://80.80.160.168/live/8/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ca/DiscoveryVelocity.ca.png" group-title="Education", Discovery Velocity
-http://195.181.169.148:80/Discovery_velocity_121_Eng/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p5rREUo.png" group-title="USA",Ditty TV
 https://desktop.dittytv.com/live/dittytv.stream_desktop/chunklist_w1540160005.m3u8
@@ -387,11 +382,6 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="Sports",Fox Sports Racing
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/445.png" group-title="Sports",Fox Sports USA HD
-http://74.91.20.42:8080/ariel/ariel/290
-
-#EXTINF:-1 tvg-logo="https://www.tkscable.com/uploads/pics/Channel_Logos/fs2.png" group-title="Sports",Fox Sports 2 USA HD
-http://74.91.20.42:8080/ariel/ariel/291
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" group-title="USA",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
