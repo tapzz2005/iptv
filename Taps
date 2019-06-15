@@ -1021,6 +1021,39 @@ http://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qwGFZKE.png" group-title="NEW ZEALAND",Wairarapa TV
 http://stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
 
+EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AdultSwimOnAir.us.png" group-title="Kids/Animation",Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer7.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/AdultSwimOnAir.us.png"group-title="Kids/Animation", Adult Swim Marathon
+http://adultswimhls-i.akamaihd.net/hls/live/242140/adultswim_2/animated/1/master_Layer.m3u8
+#EXTINF:0 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="Kids/Animation",Aniplus
+http://210.210.155.35/dr9445/h/h02/index2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BabyTV.uk.png" group-title="Kids/Animation", Baby TV
+http://livecdnh1.tvanywhere.ae:80/hls/baby/06.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Boomerang.uk.png" group-title="Kids/Animation", Boomerang 
+http://163.172.112.225:80/live.ts?channelId=101&deviceMac=00:1A:79:48:53:86&uid=471
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/CartoonNetwork.uk.png" group-title="Kids/Animation",Cartoon Network
+http://210.186.80.171:9000/6.ts
+#EXTINF:-1 tvg-logo="http://www.da-vinci-learning.com/wp-content/uploads/2018/09/Da_Vinci_Learning_Kids.png" group-title="Kids/Animation",Da Vinci
+https://hls.telekabel.com.mk:1936/live/121/2500-def.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/DisneyChannel.kr.png" group-title="Kids/Animation", Disney Channel
+http://220.158.149.14:9999/live/TV00000000000000000113@HHZT;LIVE
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyJunior.uk.png" group-title="Kids/Animation", Disney Junior
+http://163.172.112.225:80/live.ts?channelId=95&deviceMac=00:1A:79:48:53:86&uid=471
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyXD.uk.png" group-title="Kids/Animation", Disney XD
+http://163.172.112.225:80/live.ts?channelId=96&deviceMac=00:1A:79:48:53:86&uid=471
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/188px-Ducktv-logo.jpg" group-title="Kids/Animation", Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/kr/Nickelodeon.kr.png" group-title="Kids/Animation", Nickelodeon
+http://163.172.112.225:80/live.ts?channelId=99&deviceMac=00:1A:79:48:53:86&uid=471
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/Nicktoons.us.png" group-title="Kids/Animation", Nick Toons
+http://109.236.92.216:9090/Nicktoons/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NickJunior.uk.png" group-title="Kids/Animation", Nickelodeon Junior
+http://163.172.112.225:80/live.ts?channelId=97&deviceMac=00:1A:79:48:53:86&uid=471
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NickJrToo.uk.png" group-title="Kids/Animation",NickJr Too
+http://163.172.112.225:80/live.ts?channelId=100&deviceMac=00:1A:79:48:53:86&uid=471
+#EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="Kids/Animation",TCT Kids
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/YwZsGFd.png" group-title="Movies",* Tapiwa Cinema English
