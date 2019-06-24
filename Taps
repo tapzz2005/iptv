@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports.us.png" group-title="Sports", beIN Sports 1 (Afcon Broadcast)
+http://203.207.56.228/live/iptv003.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports2.us.png" group-title="Sports", beIN Sports 2 (Afcon Broadcast)
+http://203.207.56.228/live/iptv002.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/beINSports3.us.png" group-title="Sports", beIN Sports 3 (Afcon Broadcast)
+http://203.207.56.228/live/iptv001.m3u8
+
+
 EXTINF:0 group-title="Sports",US: ESPN
 http://80.80.160.168/live/6/live.m3u8
 
