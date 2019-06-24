@@ -1,28 +1,35 @@
 #EXTM3U
+
+EXTINF:0 group-title="Sports",US: ESPN
+http://80.80.160.168/live/6/live.m3u8
+
+#EXTINF:0 group-title="Sports",US: ESPN 2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+
  
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="43- DEPORTES INTERNACIONAL",Big Ten
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="Sports",Big Ten
 http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-P3VklqG7XHk/UFv0mVA2tiI/AAAAAAAAEb4/-6N62uGydEw/s1600/Chelsea_TV1_logo.png" group-title="43- DEPORTES INTERNACIONAL",Chelsea tv
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-P3VklqG7XHk/UFv0mVA2tiI/AAAAAAAAEb4/-6N62uGydEw/s1600/Chelsea_TV1_logo.png" group-title="Sports",Chelsea tv
 http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8 
-#EXTINF:-1 tvg-logo="http://oakesville.github.io/mythling/epg/demo/guide-data/icons/1841.png" group-title="43- DEPORTES INTERNACIONAL",Espn News USA
+#EXTINF:-1 tvg-logo="http://oakesville.github.io/mythling/epg/demo/guide-data/icons/1841.png" group-title="Sports",Espn News USA
 http://80.80.160.168/live/6/live.m3u8 
-#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="43- DEPORTES INTERNACIONAL",Espn 2 USA
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="Sports",Espn 2 USA
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eurosport_Logo_2015.png/800px-Eurosport_Logo_2015.png" group-title="43- DEPORTES INTERNACIONAL",Eurosport 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eurosport_Logo_2015.png/800px-Eurosport_Logo_2015.png" group-title="Sports",Eurosport 1
 http://wc7.beeyooo.com/tv11.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="43- DEPORTES INTERNACIONAL",Fox Sports Racing
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" group-title="Sports",Fox Sports Racing
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8 
-#EXTINF:-1 tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2018/08/mlb_major_league_baseball_logo.png" group-title="43- DEPORTES INTERNACIONAL",MLB USA
+#EXTINF:-1 tvg-logo="http://www.freelogovectors.net/wp-content/uploads/2018/08/mlb_major_league_baseball_logo.png" group-title="Sports",MLB USA
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8 
-#EXTINF:-1 tvg-logo="http://www.nbcuniversal.com/sites/default/files/Rev-OlyChannel.png" group-title="43- DEPORTES INTERNACIONAL",Olympic Channel USA
+#EXTINF:-1 tvg-logo="http://www.nbcuniversal.com/sites/default/files/Rev-OlyChannel.png" group-title="Sports",Olympic Channel USA
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV.png" group-title="43- DEPORTES INTERNACIONAL",Real Madrid ES
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Real-Madrid-TV.png" group-title="Sports",Real Madrid ES
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on 
-#EXTINF:-1 tvg-logo="http://www.sgnl.tv/img/clients-redbull.png" group-title="43- DEPORTES INTERNACIONAL",Redbull USA
+#EXTINF:-1 tvg-logo="http://www.sgnl.tv/img/clients-redbull.png" group-title="Sports",Redbull USA
 http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8 
-#EXTINF:-1 tvg-logo="https://www.killthecablebill.com/images/cancelcable/ZqtDHeTe_400x400.jpg" group-title="43- DEPORTES INTERNACIONAL",Stadium Sports USA
+#EXTINF:-1 tvg-logo="https://www.killthecablebill.com/images/cancelcable/ZqtDHeTe_400x400.jpg" group-title="Sports",Stadium Sports USA
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="43- DEPORTES INTERNACIONAL",WWE USA (2)
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="Sports",WWE USA (2)
 http://tv.iptv5region.com:25461/bronder/12365/1314
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/9/2/9/92974648906048168f2b9fd2e9f3105b_icon.png" group-title="LABEL",~ 24/7 World News ~
