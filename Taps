@@ -8,14 +8,14 @@ http://203.207.56.228/live/iptv002.m3u8
 http://203.207.56.228/live/iptv001.m3u8
 
 
-EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="Sports",US: ESPN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="Sports",US: ESPN
 http://80.80.160.168/live/6/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="Sports",US: ESPN 2
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
  
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="Sports",Big Ten
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="Sports",Big Ten
 http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-P3VklqG7XHk/UFv0mVA2tiI/AAAAAAAAEb4/-6N62uGydEw/s1600/Chelsea_TV1_logo.png" group-title="Sports",Chelsea tv
 http://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8 
