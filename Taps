@@ -832,6 +832,7 @@ http://185.53.163.214:5678/ipvt_010
 
 #EXTINF:-1 tvg-logo="https://www.loudandclearvoices.com/lac/wp-content/uploads/2016/12/bbc_one.png" group-title="UK",BBC One
 http://bit.ly/2Vk1aaV?.m3u8
+
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/BBC_Two_2001.png" group-title="UK",BBC Two
 http://bit.ly/2OO68KQ?.m3u8
@@ -842,6 +843,7 @@ http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="UK",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6A8O36D.png" group-title="UK",CBBC
 http://185.53.163.214:5678/ipvt_009
 
@@ -850,6 +852,145 @@ http://live.cgtn.com/cctv-d.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hrw59Wy.png" group-title="UK",Chelsea TV
 https://d11n34tff6gog3.cloudfront.net/hls/chelstvpcweb/prog_index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,ITV HD - ITV HD
+http://62.210.27.219:80/live.ts?channelId=5&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,ITV - ITV
+http://62.210.27.219:80/live.ts?channelId=6&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,ITV plus1 - ITV plus1
+http://62.210.27.219:80/live.ts?channelId=7&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Channel 4 HD - Channel 4 HD
+http://62.210.27.219:80/live.ts?channelId=8&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Channel 4 - Channel 4
+http://62.210.27.219:80/live.ts?channelId=9&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Channel 4 plus1 - Channel 4 plus1
+http://62.210.27.219:80/live.ts?channelId=10&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Channel 5 HD - Channel 5 HD
+http://62.210.27.219:80/live.ts?channelId=11&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Channel 5 - Channel 5
+http://62.210.27.219:80/live.ts?channelId=12&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Channel 5 plus1 - Channel 5 plus1
+http://62.210.27.219:80/live.ts?channelId=13&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,ITV2 - ITV2
+http://62.210.27.219:80/live.ts?channelId=14&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,ITV3 - ITV3
+http://62.210.27.219:80/live.ts?channelId=15&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,ITV4 - ITV4
+http://62.210.27.219:80/live.ts?channelId=16&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,ITVBe - ITVBe
+http://62.210.27.219:80/live.ts?channelId=17&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,4seven - 4seven
+http://62.210.27.219:80/live.ts?channelId=18&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,E4 - E4
+http://62.210.27.219:80/live.ts?channelId=19&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,More4 - More4
+http://62.210.27.219:80/live.ts?channelId=20&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,5 USA - 5 USA
+http://62.210.27.219:80/live.ts?channelId=21&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,5STAR - 5STAR
+http://62.210.27.219:80/live.ts?channelId=22&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,AMC from BT - AMC from BT
+http://62.210.27.219:80/live.ts?channelId=24&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Sky1 HD - Sky1 HD
+http://62.210.27.219:80/live.ts?channelId=25&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Sky1 - Sky1
+http://62.210.27.219:80/live.ts?channelId=26&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Sky2 - Sky2
+http://62.210.27.219:80/live.ts?channelId=27&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Sky Witness - Sky Witness
+http://62.210.27.219:80/live.ts?channelId=28&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Sky Atlantic HD - Sky Atlantic HD
+http://62.210.27.219:80/live.ts?channelId=29&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Sky Atlantic - Sky Atlantic
+http://62.210.27.219:80/live.ts?channelId=30&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Sky Arts - Sky Arts
+http://62.210.27.219:80/live.ts?channelId=31&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Discovery - Discovery
+http://62.210.27.219:80/live.ts?channelId=32&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Disc.History - Disc.History
+http://62.210.27.219:80/live.ts?channelId=33&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Disc.Science - Disc.Science
+http://62.210.27.219:80/live.ts?channelId=34&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Disc.Turbo - Disc.Turbo
+http://62.210.27.219:80/live.ts?channelId=35&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Discovery Shed - Discovery Shed
+http://62.210.27.219:80/live.ts?channelId=36&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,DMAX - DMAX
+http://62.210.27.219:80/live.ts?channelId=37&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Blaze - Blaze
+http://62.210.27.219:80/live.ts?channelId=38&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,ComedyCentral - ComedyCentral
+http://62.210.27.219:80/live.ts?channelId=39&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,ComedyXtra - ComedyXtra
+http://62.210.27.219:80/live.ts?channelId=40&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Crime and Investigation - Crime and Investigation
+http://62.210.27.219:80/live.ts?channelId=41&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Animal Planet - Animal Planet
+http://62.210.27.219:80/live.ts?channelId=42&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,HISTORY - HISTORY
+http://62.210.27.219:80/live.ts?channelId=43&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,H2 - H2
+http://62.210.27.219:80/live.ts?channelId=44&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,National Geo Wild - National Geo Wild
+http://62.210.27.219:80/live.ts?channelId=45&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,National Geographic - National Geographic
+http://62.210.27.219:80/live.ts?channelId=46&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,TLC - TLC
+http://62.210.27.219:80/live.ts?channelId=47&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Syfy - Syfy
+http://62.210.27.219:80/live.ts?channelId=48&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Lifetime - Lifetime
+http://62.210.27.219:80/live.ts?channelId=49&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,MTV - MTV
+http://62.210.27.219:80/live.ts?channelId=50&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Dave - Dave
+http://62.210.27.219:80/live.ts?channelId=51&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Dave ja vu - Dave ja vu
+http://62.210.27.219:80/live.ts?channelId=52&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,FOX - FOX
+http://62.210.27.219:80/live.ts?channelId=53&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,horror channel - horror channel
+http://62.210.27.219:80/live.ts?channelId=54&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,ID - ID
+http://62.210.27.219:80/live.ts?channelId=55&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Good Food - Good Food
+http://62.210.27.219:80/live.ts?channelId=56&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Home - Home
+http://62.210.27.219:80/live.ts?channelId=57&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Food Network - Food Network
+http://62.210.27.219:80/live.ts?channelId=58&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,alibi - alibi
+http://62.210.27.219:80/live.ts?channelId=59&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Drama - Drama
+http://62.210.27.219:80/live.ts?channelId=60&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,E! - E!
+http://62.210.27.219:80/live.ts?channelId=61&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Eden - Eden
+http://62.210.27.219:80/live.ts?channelId=62&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,GOLD - GOLD
+http://62.210.27.219:80/live.ts?channelId=63&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Pick - Pick
+http://62.210.27.219:80/live.ts?channelId=64&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Really - Really
+http://62.210.27.219:80/live.ts?channelId=65&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Yesterday - Yesterday
+http://62.210.27.219:80/live.ts?channelId=66&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,W - W
+http://62.210.27.219:80/live.ts?channelId=67&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Universal - Universal
+http://62.210.27.219:80/live.ts?channelId=68&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,CBBC - CBBC
+http://163.172.112.225:80/live.ts?channelId=91&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Cartoon network - Cartoon network
+http://163.172.112.225:80/live.ts?channelId=92&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Cbeeies - Cbeeies
+http://163.172.112.225:80/live.ts?channelId=93&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Disney Channel - Disney Channel
+http://163.172.112.225:80/live.ts?channelId=94&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Disney Jr - Disney Jr
+http://163.172.112.225:80/live.ts?channelId=95&deviceMac=00:1A:79:BE:3F:E6&uid=1846
+#EXTINF:-1,Disney XD - Disney XD
+http://163.172.112.225:80/live.ts?channelId=96&deviceMac=00:1A:79:BE:3F:E6&uid=1846
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png" group-title="UK",CNBC Europe (Opt-1)
 http://ott-cdn.ucom.am/s65/index.m3u8?fluxustv.m3u8
